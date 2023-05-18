@@ -13,5 +13,6 @@ def index(request) -> HttpResponse:
 
 def detail(request, league_id: int) -> HttpResponse:
     teams = Team.objects.filter(league=league_id)
-    context = {"teams": teams}
+    league = League.objects.get(id=league_id)
+    context = {"teams": teams, "league": league}
     return render(request, "teams.html", context)

@@ -33,7 +33,6 @@ class Command(BaseCommand):
         )
 
     def handle(self, *args, **options):
-        print(f"options: {options}")
         # If neither specified then do both
         if options.get("users") or not (options.get("db") or options.get("users")):
             self.create_users(args, options)

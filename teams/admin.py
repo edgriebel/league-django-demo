@@ -22,5 +22,4 @@ class LeagueAdmin(admin.ModelAdmin):
     list_select_related = True
 
 
-# admin.site.register(models.League)
 admin.site.register(models.Team)

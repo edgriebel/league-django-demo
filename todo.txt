@@ -1,0 +1,15 @@
+(A) Bootstrap-ify display screen 30
+(Z) GH Action - test build + test 30
+(Z) Implement tests 30
+(Z) Rename project + app 30
+X Load data to DB
+X Basic data display screen 15
+X default / route to display screen 
+X Admin screen stub
+X Admin screen display League
+X Admin screen display team for league 30
+X Admin screen perms for League 30
+X Admin screen perms for Teams 10
+X Linkages on display screen dynamically load 30 (N/A)
+X Export feature for creations (N/A)
+X Writeup ReadMe: install code, rqts.txt+venv, migrate cmd, create admin acct 30
