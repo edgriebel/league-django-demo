@@ -23,6 +23,7 @@
 # Starting the application
 - run `./manage.py runserver`
 - go to application's URL: http://127.0.0.1:8000/
+- Button to go to the admin screen is at the bottom of the page
 
 # Cleanup
 - Run `./manage.py flush` to clear all the data
