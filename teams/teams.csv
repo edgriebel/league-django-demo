@@ -1,0 +1,125 @@
+abbr,name,league
+ANA,Anaheim Ducks,NHL
+ARZ,Arizona Cardinals,NFL
+ARI,Arizona Coyotes,NHL
+ARI,Arizona Diamondbacks,MLB
+ATL,Atlanta Braves,MLB
+ATL,Atlanta Falcons,NFL
+ATL,Atlanta Hawks,NBA
+BAL,Baltimore Orioles,MLB
+BAL,Baltimore Ravens,NFL
+BOS,Boston Bruins,NHL
+BOS,Boston Celtics,NBA
+BOS,Boston Red Sox,MLB
+BRK,Brooklyn Nets,NBA
+BUF,Buffalo Bills,NFL
+BUF,Buffalo Sabres,NHL
+CAL,Calgary Flames,NHL
+CAR,Carolina Hurricanes,NHL
+CAR,Carolina Panthers,NFL
+CHA,Charlotte Hornets,NBA
+CHI,Chicago Bears,NFL
+CHI,Chicago Blackhawks,NHL
+CHI,Chicago Bulls,NBA
+CUB,Chicago Cubs,MLB
+CWS,Chicago White Sox,MLB
+CIN,Cincinnati Bengals,NFL
+CIN,Cincinnati Reds,MLB
+CLE,Cleveland Browns,NFL
+CLE,Cleveland Cavaliers,NBA
+CLE,Cleveland Guardians,MLB
+COL,Colorado Avalanche,NHL
+COL,Colorado Rockies,MLB
+CLM,Columbus Blue Jackets,NHL
+DAL,Dallas Cowboys,NFL
+DAL,Dallas Mavericks,NBA
+DAL,Dallas Stars,NHL
+DEN,Denver Broncos,NFL
+DEN,Denver Nuggets,NBA
+DET,Detroit Lions,NFL
+DET,Detroit Pistons,NBA
+DET,Detroit Red Wings,NHL
+DET,Detroit Tigers,MLB
+EDM,Edmonton Oilers,NHL
+FLA,Florida Panthers,NHL
+GS,Golden State Warriors,NBA
+GB,Green Bay Packers,NFL
+HOU,Houston Astros,MLB
+HOU,Houston Rockets,NBA
+HOU,Houston Texans,NFL
+IND,Indiana Pacers,NBA
+IND,Indianapolis Colts,NFL
+JAC,Jacksonville Jaguars,NFL
+KC,Kansas City Chiefs,NFL
+KAN,Kansas City Royals,MLB
+LAA,Los Angeles Angels,MLB
+LAC,Los Angeles Chargers,NFL
+LAC,Los Angeles Clippers,NBA
+LAD,Los Angeles Dodgers,MLB
+LAK,Los Angeles Kings,NHL
+LAK,Los Angeles Lakers,NBA
+LAR,Los Angeles Rams,NFL
+MEM,Memphis Grizzlies,NBA
+MIA,Miami Dolphins,NFL
+MIA,Miami Heat,NBA
+MIA,Miami Marlins,MLB
+MIL,Milwaukee Brewers,MLB
+MLW,Milwaukee Bucks,NBA
+MIN,Minnesota Timberwolves,NBA
+MIN,Minnesota Twins,MLB
+MIN,Minnesota Vikings,NFL
+MIN,Minnesota Wild,NHL
+MON,Montreal Canadiens,NHL
+NAS,Nashville Predators,NHL
+NE,New England Patriots,NFL
+NJD,New Jersey Devils,NHL
+NO,New Orleans Pelicans,NBA
+NO,New Orleans Saints,NFL
+NYG,New York Giants,NFL
+NYI,New York Islanders,NHL
+NYJ,New York Jets,NFL
+NY,New York Knicks,NBA
+NYM,New York Mets,MLB
+NYR,New York Rangers,NHL
+NYY,New York Yankees,MLB
+OAK,Oakland Athletics,MLB
+OAK,Oakland Raiders,NFL
+OKC,Oklahoma City Thunder,NBA
+ORL,Orlando Magic,NBA
+OTT,Ottawa Senators,NHL
+PHI,Philadelphia 76ers,NBA
+PHI,Philadelphia Eagles,NFL
+PHI,Philadelphia Flyers,NHL
+PHI,Philadelphia Phillies,MLB
+PHO,Phoenix Suns,NBA
+PIT,Pittsburgh Penguins,NHL
+PIT,Pittsburgh Pirates,MLB
+PIT,Pittsburgh Steelers,NFL
+POR,Portland Trail Blazers,NBA
+SAC,Sacramento Kings,NBA
+SA,San Antonio Spurs,NBA
+SDG,San Diego Padres,MLB
+SF,San Francisco 49ers,NFL
+SFO,San Francisco Giants,MLB
+SAN,San Jose Sharks,NHL
+SEA,Seattle Kraken,NHL
+SEA,Seattle Mariners,MLB
+SEA,Seattle Seahawks,NFL
+STL,St. Louis Blues,NHL
+STL,St. Louis Cardinals,MLB
+TB,Tampa Bay Buccaneers,NFL
+TAM,Tampa Bay Lightning,NHL
+TAM,Tampa Bay Rays,MLB
+TEN,Tennessee Titans,NFL
+TEX,Texas Rangers,MLB
+TOR,Toronto Blue Jays,MLB
+TOR,Toronto Maple Leafs,NHL
+TOR,Toronto Raptors,NBA
+UTA,Utah Jazz,NBA
+VAN,Vancouver Canucks,NHL
+LAS,Vegas Golden Knights,NHL
+WAS,Washington Capitals,NHL
+WAS,Washington Commanders,NFL
+WAS,Washington Nationals,MLB
+WAS,Washington Wizards,NBA
+WIN,Winnipeg Jets,NHL

@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Leagues{% endblock %}
+
+{% block content %}
+{% regroup teams by league as teams_list %}
+
+
+<div class="container text-center">
+
+    <div class="row">
+
+        {% for teams in teams_list %}
+        <div class="col">
+            <h2>{{ teams.grouper.abbr }}: {{ teams.grouper.name }}</h2>
+            {% for team in teams.list %}
+            <p>{{ team.abbr }} {{ team.name }}</p>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div> <!-- row -->
+</div> <!-- container -->
+{% endblock %}
