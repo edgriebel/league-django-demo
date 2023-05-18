@@ -4,8 +4,8 @@ from teams.models import League, Team
 
 
 def index(request) -> HttpResponse:
-    leagues = sorted(League.objects.all(), key=lambda l: l.abbr)
-    teams = sorted(Team.objects.all(), key=lambda t: t.league.abbr)
+    leagues = sorted(League.objects.all(), key=lambda e: e.abbr)
+    teams = sorted(Team.objects.all(), key=lambda e: e.league.abbr)
     print(f"Leagues: {leagues}")
     context = {"leagues": leagues, "teams": teams}
     return render(request, "leagues.html", context)

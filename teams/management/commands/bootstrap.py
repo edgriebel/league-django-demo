@@ -78,7 +78,7 @@ class Command(BaseCommand):
             commish.user_permissions.add(permission)
 
     def load_data(self, *args, **options):
-        file_dir = (options.get("dir") or ["teams"])[0]
+        file_dir = (options.get("dir") or ["teams/data"])[0]
         self.stdout.write(self.style.SUCCESS(f"Reading files from {file_dir}"))
 
         with open(f"{file_dir}/{LEAGUE_FILE}", newline="") as f:
@@ -86,7 +86,7 @@ class Command(BaseCommand):
             headers = next(reader)
             leagues = [models.League(**dict(zip(headers, row))) for row in reader]
         self.stdout.write(self.style.SUCCESS(f"Leagues to load: {len(leagues)}"))
-        leagues_dict = {l.abbr: l for l in leagues}
+        leagues_dict = {e.abbr: e for e in leagues}
 
         with open(f"{file_dir}/{TEAM_FILE}", newline="") as f:
             teams = []
